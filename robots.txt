@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /research/
+Disallow: /assets/research/
+
+Sitemap: https://sugarglider7.github.io/sun-drive-cars/sitemap.xml
